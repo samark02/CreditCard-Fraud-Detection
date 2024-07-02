@@ -7,7 +7,7 @@ Models Used:
   - Gradient Boosting Classifier
   - Linear Support Vector Machine Classifier [Best Result for Unbalanced Dataset]
 
-## Final Test Data Classification Report
+## Final Test Data Classification Report [Balanced Data]
 
                     precision    recall  f1-score   support
        Not Fraud       0.92      0.95      0.93        73
